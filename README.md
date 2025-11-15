@@ -1,6 +1,10 @@
 # RetroVision
 An AI portal that turns books and podcasts about Troy into short narrated videos, letting students watch the city’s history unfold—on a platform that can later scale to any city.
 
+# Architecture
+
+! [Architecture diagram] architecture_diagram.png
+
 # Running data extraction
 
 We extract data from 3 different sources:
