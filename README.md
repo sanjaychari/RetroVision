@@ -8,7 +8,7 @@ We extract data from 3 different sources:
 2. Online text sources
 3. Podcasts
 
-To run data extraction, you first need to download the book from https://archive.org/details/cu31924028826472/page/56/mode/2up into the data_extraction directory. This project requires Python<3.14.
+To run data extraction, you first need to download the book from https://archive.org/details/cu31924028826472/page/56/mode/2up into the data_extraction directory. This project requires Python version 3.13.
 
 After this, run
 ```
