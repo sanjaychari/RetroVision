@@ -3,7 +3,7 @@ An AI portal that turns books and podcasts about Troy into short narrated videos
 
 # Workflow
 
-![Workflow diagram](architecture_diagram.png)
+![Workflow diagram](workflow_diagram.png)
 
 # Running data extraction
 
