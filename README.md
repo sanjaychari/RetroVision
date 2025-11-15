@@ -5,6 +5,10 @@ An AI portal that turns books and podcasts about Troy into short narrated videos
 
 ![Workflow diagram](workflow_diagram.png)
 
+# Web App
+
+https://huggingface.co/spaces/ankitkupadhyay/RetroVision
+
 # Running data extraction
 
 We extract data from 3 different sources:
