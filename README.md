@@ -3,7 +3,7 @@ An AI portal that turns books and podcasts about Troy into short narrated videos
 
 # Architecture
 
-! [Architecture diagram] (architecture_diagram.png)
+![Architecture diagram](architecture_diagram.png)
 
 # Running data extraction
 
