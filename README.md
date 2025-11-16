@@ -30,5 +30,7 @@ python extract_events_by_decade_web.py
 
 This will generate csv files with decade based historical information, which is then ingested by the video generation notebook.
 
+# Video Generation
 
+All code related to video generation is in [video generation notebook](VideoGeneration.ipynb).
 
