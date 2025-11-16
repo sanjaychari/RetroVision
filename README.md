@@ -32,5 +32,5 @@ This will generate csv files with decade based historical information, which is 
 
 # Video Generation
 
-All code related to video generation is in [video generation notebook](VideoGeneration.ipynb).
+All code related to video generation is in the [video generation notebook](VideoGeneration.ipynb).
 
